@@ -17,4 +17,5 @@ return {
 
 
 ["HBT_QiOzdb9pNL"] = true, -- <@1385367583494246430> fim permanent
+["Zelaojg"] = true, -- <@1098664045097255045> fim permanente
 }
