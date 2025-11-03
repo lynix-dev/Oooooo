@@ -17,5 +17,4 @@ return {
 
 
 ["HBT_QiOzdb9pNL"] = true, -- <@1385367583494246430> fim 3 dias
-["Kaua_452"] = true, -- <@1324502380225495077> fim 3 dias
 }
