@@ -1,6 +1,6 @@
 return {
 
-["fh_user1"] = true, -- @lynix_ofc --Dono
+["HBT_QiOzdb9pNL"] = true, -- @lynix_ofc --Dono
 ["Zelaojg"] = true, -- @thedarknesxz --Amigo
 
 
