@@ -1,19 +1,7 @@
 return {
 
-["fh_user1"] = true, -- @zaxxin_ Staff
-
-["aranha19191"] = true, -- @porwervitorkl vitalicio fim vitalicio
-
-["Gabriel_gabb186"] = true, -- @gabriel_gab125_39916 2m fim 26/12/2025
- 
-["Gabriel_gabb186"] = true, -- @gabriel_gab125_39916 2m fim 26/12/2025
-
-["dudubarbosa3"] = true, -- @aitonsenna._16688 1m fim 25/11/2025
-
-["L5VQT13000"] = true, -- @assustado998 1s fim 02/11/2025
-
-["ISAQUE144255"] = true, -- @joseotavio0984 3d fim 30/10/2025
-    
+["fh_user1"] = true, -- @lynix_ofc --Dono
+["Zelaojg"] = true, -- @thedarknesxz --Amigo
 
 
 ["Zelaojg"] = true, -- <@1098664045097255045> fim permanente
