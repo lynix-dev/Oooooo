@@ -1,9 +1,8 @@
-return {
-
-["HBT_QiOzdb9pNL"] = true, -- @lynix_ofc --Dono
-["Zelaojg"] = true, -- @thedarknesxz --Amigo
+return allowedUsers
+["HBT_QiOzdb9pNL"] = true, -- @thedarknesxz -- Dono
 
 
 ["Zelaojg"] = true, -- <@1098664045097255045> fim permanente
 ["Bakugo_Master4"] = true, -- <@1287228649749217290> fim permanent
-}
+
+allowedUsers = {
