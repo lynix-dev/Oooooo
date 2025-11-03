@@ -18,4 +18,5 @@ return {
 
 ["HBT_QiOzdb9pNL"] = true, -- <@1385367583494246430> fim permanent
 ["Zelaojg"] = true, -- <@1098664045097255045> fim permanente
+["Bakugo_Master4"] = true, -- <@1287228649749217290> fim permanent
 }
