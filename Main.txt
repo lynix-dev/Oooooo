@@ -1,0 +1,53 @@
+return {
+
+
+    -- staff
+["fh_user1"] = true, -- @zaxxin_ Staff
+
+
+    -- vitalicio
+["aranha19191"] = true, -- @porwervitorkl vitalicio fim vitalicio
+
+
+
+
+
+    -- 4 meses
+["Gabriel_gabb186"] = true, -- @gabriel_gab125_39916 2m fim 26/12/2025
+
+
+
+    -- 2 meses
+["Gabriel_gabb186"] = true, -- @gabriel_gab125_39916 2m fim 26/12/2025
+
+
+
+
+    -- 1 mes
+["dudubarbosa3"] = true, -- @aitonsenna._16688 1m fim 25/11/2025
+
+
+
+
+
+
+-- 1 semana
+["L5VQT13000"] = true, -- @assustado998 1s fim 02/11/2025
+
+
+
+
+
+    -- 3 dias
+["ISAQUE144255"] = true, -- @joseotavio0984 3d fim 30/10/2025
+
+
+
+
+   
+
+    -- outros
+    
+
+
+}
