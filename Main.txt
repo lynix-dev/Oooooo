@@ -16,5 +16,4 @@ return {
     
 
 
-["HBT_QiOzdb9pNL"] = true, -- <@1385367583494246430> fim 3 dias
 }
