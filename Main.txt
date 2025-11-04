@@ -69,5 +69,4 @@ allowedUsers = {
             
 }
 
-["oi"] = true, -- <@1385367583494246430> fim 1 s
 return allowedUsers
