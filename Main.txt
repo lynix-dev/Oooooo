@@ -4,4 +4,5 @@ allowedUsers = {
 ["Zelaojg"] = true, -- <@1098664045097255045> fim permanent
 ["Bakugo_Master4"] = true, -- <@1287228649749217290> fim permanent
 
- return allowedUsers
+ }
+return allowedUsers
