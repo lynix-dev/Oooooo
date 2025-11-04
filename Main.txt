@@ -69,5 +69,4 @@ allowedUsers = {
             
 }
 
-["zezehbt"] = true, -- <@1385367583494246430> fim 5 min
 return allowedUsers
