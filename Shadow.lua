@@ -1,8 +1,0 @@
-allowedUsers = {
-["HBT_QiOzdb9pNL"] = true, -- @lynix_dev -- Dono
-
-
-["Zelaojg"] = true, -- <@1098664045097255045> fim permanente
-["Bakugo_Master4"] = true, -- <@1287228649749217290> fim permanent
-
- return allowedUsers
