@@ -6,4 +6,5 @@ allowedUsers = {
 
  }
 
+["Kaua_452"] = true, -- <@1324502380225495077> fim 5d
 return allowedUsers
