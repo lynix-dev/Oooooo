@@ -69,4 +69,5 @@ allowedUsers = {
             
 }
 
+["Foortataq"] = true, -- Nick hub fim 30/12/2080
 return allowedUsers
